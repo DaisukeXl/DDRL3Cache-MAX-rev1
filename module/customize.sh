@@ -1,7 +1,0 @@
-ui_print "**************************************************"
-ui_print " - Maxing DDR & L3 Freq "
-ui_print " - lpddr5x RM 9PRO"
-ui_print " - Changing permissions"
-ui_print " - Completed"
-ui_print " - Please restart the device"
-ui_print "**************************************************"
